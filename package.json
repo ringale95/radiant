@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "Open source React Component library",
   "main": "index.js",
+  "type": "module",
+  "homepage": "http://ringale95.github.io/radiant",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "storybook dev -p 6006",
